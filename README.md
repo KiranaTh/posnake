@@ -6,7 +6,7 @@ Posnake is come from PoseNet + Snake game by using PoseNet to classify the pose 
 
 ## Methodology
 
-![alt text](https://github.com/KiranaTh/posnake/blob/master/posnake3.0/img/mathodology.png?raw=true)
+![alt text](https://github.com/KiranaTh/posnake/blob/master/posnake3.0/img/methodology.png?raw=true)
 
 ## How to play
 
