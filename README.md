@@ -1,5 +1,8 @@
 # posnake
-Posnake is come from PoseNet + Snake game. I using PoseNet to classify the pose to control the snake to go up, down, left and right.
+Posnake is come from PoseNet + Snake game by using PoseNet to classify the pose to control the snake to go up, down, left and right.
+
+## Quick Demo
+[DEMO](https://editor.p5js.org/kirana.th/sketches/cRZ9pmgAS)
 
 ## Methodology
 
@@ -25,4 +28,7 @@ control snake to go "RIGHT"
 
 ## references
 [PoseNet](https://learn.ml5js.org/docs/#/reference/posenet)
+
 [NeuralNetwork](https://learn.ml5js.org/docs/#/reference/neural-network)
+
+[ml5.js - Friendly Machine Learning for the Web](https://learn.ml5js.org/docs/#/)
